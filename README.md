@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alec-schmidt
-- 👀 I’m interested in App development, Web development and game design.
+- 👀 I’m interested in App development, Full Stack Web development and Software Development.
 - 🌱 I’m currently studying a Bachelor of Design and Interactive Systems Technologies, Major in Apps and Interactive Systems Development.
 - 💞️ I’m looking to collaborate on any entry level projects to help me learn and develop my skills in the industry.
 
